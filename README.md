@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Project Description 
 
-You can use the [editor on GitHub](https://github.com/pbgrillo/FES/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Convert existing LabVIEW code into Actor Framework (LabVIEW's implementation of the actor model), for data acquisition and real-time control of Functional Electrical Stimulation (FES). The goal is to improve walking function in children with Cerebral Palsy (CP). This project may, in conjunction with Project 2 below, lead to the development of a common software framework for FES control systems that we hope to reuse in our lab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Issue Tracker
 
 ```markdown
 Syntax highlighted code block
