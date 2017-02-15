@@ -1,1 +1,10 @@
 theme: jekyll-theme-midnight
+title: FES
+url: https://github.com/pbgrillo/FES/
+
+color:
+  primary-dark: '#000000'
+  links:'#219ab3'
+footer: FES Project
+markdown: kramdown
+permalink: pretty
