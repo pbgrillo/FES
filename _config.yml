@@ -1,9 +1,9 @@
 theme: jekyll-theme-midnight
-title: FES
+title: FESadfsa
 url: https://github.com/pbgrillo/FES/
 
 color:
-  primary-dark: '#000000'
+  primary-dark: '#111111'
   
 footer: FES Project
 markdown: kramdown
