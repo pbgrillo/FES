@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Project Background"
+categories:
+  - Background Knowledge
 excerpt: "Background Information & Knowledge"
 tags: 
   - Cerebral Palsy
