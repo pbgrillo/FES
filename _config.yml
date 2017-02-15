@@ -1,7 +1,7 @@
 # Site
 title: FES
 description: Stylish, Two-Column Jekyll Theme
-url: https://github.com/pbgrillo/FES/
+url: https://pbgrillo.github.io/FES
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -61,6 +61,6 @@ gems:
   - jekyll-gist
 
 # Exclude list
-include: [_pages]
+include: [_pages/, _inclues/, _layouts/, _posts/, assets/, images/, _data/,]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
 
