@@ -6,5 +6,4 @@ color:
   primary-dark: '#111111'
   
 footer: FES Project
-markdown: kramdown
 permalink: pretty
