@@ -5,7 +5,7 @@
 - title: Sample Problem2
   url: https://pastebin.com #however you would like to host the issue
   image: /images/atom.gif
-  completed: false #change to true after fixed
+  completed: true #change to true after fixed
 - title: Sample Problem3
   url: https://pastebin.com #however you would like to host the issue
   image: /images/atom.gif
