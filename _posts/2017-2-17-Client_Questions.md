@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Client Questions”
+title: Client Questions
 categories:
   - Client Questions
 excerpt: "First Interview with Client"
