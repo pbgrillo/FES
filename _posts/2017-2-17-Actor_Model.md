@@ -21,5 +21,5 @@ tags:
 
 ## Actor Model Lab View
 
-<iframe src="http://www.bloomy.com/support/blog/getting-started-actor-framework-part-i" height="400" width="800"></iframe>
+<iframe src="https://forums.ni.com/t5/Labvolution/LabVIEW-Actor-Framework-Basics/ba-p/3476654" height="400" width="800"></iframe>
 <br>
